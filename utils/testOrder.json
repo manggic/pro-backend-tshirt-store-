@@ -1,0 +1,26 @@
+{
+    "shippingInfo": {
+      "address": "1 Jaipur",
+      "city": "Jaipur",
+      "phoneNo": "9898989898",
+      "postalCode": "302020",
+      "state": "Rajasthan",
+      "country": "India"
+    },
+    "orderItems": [
+      {
+        "name": "Pro Coder tshirts",
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dmgu1ig7m/image/upload/v1674374720/products/pevrdv2mzkxzkecedddx.jpg",
+        "price": 999,
+        "product": "63ccee432cc2fbf4294af82e"
+      }
+    ],
+    "paymentInfo": {
+      "id": "testString"
+    },
+    "taxAmount": 40,
+    "shippingAmount": 10,
+    "totalAmount": 100
+  }
+  
